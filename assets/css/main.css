@@ -2768,15 +2768,15 @@
 					}
 
 			.tiles article.style1 > .image:before {
-				background-color: #f2849e;
+				background-color: #2A4C8B;
 			}
 
 			.tiles article.style2 > .image:before {
-				background-color: #7ecaf6;
+				background-color: #2A4C8B;
 			}
 
 			.tiles article.style3 > .image:before {
-				background-color: #7bd0c1;
+				background-color: #2A4C8B;
 			}
 
 			.tiles article.style4 > .image:before {
@@ -2927,7 +2927,7 @@ img {
 /* Header */
 
 	#header {
-		padding: 8em 0 0.1em 0 ;
+		padding: 4em 0 0.1em 0 ;
 	}
 
 		#header .logo {
